@@ -8,7 +8,6 @@ use Illuminate\Foundation\Bootstrap\LoadEnvironmentVariables;
 
 class TestCase extends \Orchestra\Testbench\TestCase
 {
-
     protected function setUp(): void
     {
         parent::setUp();
